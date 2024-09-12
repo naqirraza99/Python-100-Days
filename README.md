@@ -21,6 +21,7 @@ On Day 1, we cover fundamental Python topics to lay a strong foundation for furt
 
 **BMI Calculator:** Apply the above concepts to create a simple Body Mass Index (BMI) calculator.
 
+
 **Objectives:**
 
 **Printing:** Practice outputting information and formatting text.
@@ -34,3 +35,24 @@ On Day 1, we cover fundamental Python topics to lay a strong foundation for furt
 **Data Types:** Understand Python’s built-in data types and their applications.
 
 **BMI Calculator:** Develop a practical application that calculates BMI based on user input.
+
+**Getting Started**
+
+To get started with the challenges for Day 1:
+
+**1- Clone the Repository:**
+
+
+git clone https://github.com/naqirraza99/Python-100-Days.git
+
+**2- Navigate to the Day 1 Directory:**
+
+cd Python-100-Days/Day-1
+
+**3- Run the Python Scripts:** Use a Python interpreter to execute the provided scripts and work through the challenges.
+
+
+
+**Contributing:**
+
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
