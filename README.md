@@ -6,15 +6,25 @@ Welcome to the Python 100 Day Challenge! This repository contains solutions for 
 
 In this lesson, we explore the print() function in Python. The print() function is used to output data to the standard output (typically the console). This lesson covers various ways to use the print() function to display different types of data and formatting options.
 
+![image](https://github.com/user-attachments/assets/3882438a-7840-4809-b5d3-27019ca8148f)
+
 **Code Explanation:**
 
+
 print("Hello, World!"): Prints a string of text.
+
 print(5): Prints an integer.
+
 print(6.78): Prints a floating-point number.
+
 print('Naqi Raza'): Prints a string using single quotes.
+
 print('She said: "Hello" Where are you!'): Demonstrates how to include double quotes inside a string enclosed in single quotes.
+
 print("She said: 'Hello' Where are you"): Demonstrates how to include single quotes inside a string enclosed in double quotes.
+
 print("She said: \"Hello\" Where are you"): Shows how to escape double quotes inside a string enclosed in double quotes.
+
 The final print statements provide step-by-step instructions formatted as a recipe.
 
 **How to Run:**
