@@ -1,4 +1,6 @@
- print('-------------Lesson 1 Day 1: "Printing"--------------------')
+
+
+print('-------------Lesson 1 Day 1: "Printing"--------------------')
  print()
 
 print("Hello,World!") #double quotation mark
